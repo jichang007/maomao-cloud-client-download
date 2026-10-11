@@ -7,22 +7,31 @@
 
 <p align="center">
   <a href="https://app.mmy369.com/win/maomao5.5.8.exe">
-    <img src="https://img.shields.io/badge/Windows-电脑版-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 电脑版下载">
+    <img src="https://img.shields.io/badge/Windows-客户端下载-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows客户端下载">
   </a>
   <a href="https://app.mmy369.com/Android/maomao2.3.7.apk">
-    <img src="https://img.shields.io/badge/Android-安卓APP-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 安卓APP下载">
+    <img src="https://img.shields.io/badge/Android-客户端下载-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android客户端下载">
   </a>
   <a href="https://app.mmy369.com/mac/maomao1.0.7.dmg">
-    <img src="https://img.shields.io/badge/macOS-Mac客户端-555555?style=for-the-badge&logo=apple&logoColor=white" alt="Mac客户端下载">
+    <img src="https://img.shields.io/badge/macOS-客户端下载-555555?style=for-the-badge&logo=apple&logoColor=white" alt="macOS客户端下载">
   </a>
   <a href="https://app.mmy369.com/Linux/maomao6.0.0.deb">
-    <img src="https://img.shields.io/badge/Linux-Linux客户端-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux客户端下载">
+    <img src="https://img.shields.io/badge/Linux-客户端下载-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux客户端下载">
   </a>
 </p>
-> [官网入口](https://maomaoyun.org/#/register?code=SY6Xnzkx)
----
-[![更多性价比机场推荐](https://raw.githubusercontent.com/jichang007/maomao-cloud-client-download/refs/heads/main/more_airports.jpg)](https://www.jiedublog.com/jichang/)
 
+<p align="center">
+  <strong>官方网站：</strong>
+  <a href="https://maomaoyun.org/#/register?code=SY6Xnzkx">猫猫云官网入口</a>
+</p>
+
+相关资源推荐
+
+<p align="center">
+  <a href="https://www.jiedublog.com/jichang/">
+    <img src="https://raw.githubusercontent.com/jichang007/maomao-cloud-client-download/main/more_airports.jpg" alt="更多高性价比机场推荐" width="100%">
+  </a>
+</p>
 ---
 
 ## 📢 重要公告：猫猫云已关闭订阅链接功能
